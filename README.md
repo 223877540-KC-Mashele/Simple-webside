@@ -1,6 +1,6 @@
 # Creative Solutions Website
 
-![Creative Solutions Banner](./assets/images/hero-background.jpg)
+
 
 Welcome to the Creative Solutions website! We specialize in crafting project-specific solutions with a focus on establishing long-term relationships with our clients. Our services include 24/7 support, secure payments, daily updates, and market research, all designed to meet your needs.
 
